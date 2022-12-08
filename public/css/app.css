@@ -21375,12 +21375,9 @@ textarea.form-control-lg {
   letter-spacing: 3px;
 }
 
-nav {
-  padding: 0 15% !important;
-}
-
 #Scard {
   margin-top: 10% !important;
+  margin-bottom: 10% !important;
 }
 
 #card {
